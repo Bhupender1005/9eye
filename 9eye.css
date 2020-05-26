@@ -1,0 +1,211 @@
+#logo{
+                float: right;
+                width: 40px;
+                height: 40px;
+            }
+            
+            #navbar{
+                width: 45px;
+            }
+            
+            .bottom-centre1 {
+                position: absolute;
+                bottom: 25px;
+                left: 175px;
+                color: black;
+                font-family: "Times New Roman", Times, serif;
+                font-size: 42px;
+                font-weight: bold;
+            }
+            
+            .bottom-centre2 {
+                position: absolute;
+                bottom: 25px;
+                left: 230px;
+                color: black;
+                font-family: "Times New Roman", Times, serif;
+                font-size: 42px;
+                font-weight: bold;
+            }
+            
+            .bottom-centre3 {
+                position: absolute;
+                bottom: 25px;
+                left: 230px;
+                color: black;
+                font-family: "Times New Roman", Times, serif;
+                font-size: 42px;
+                font-weight: bold;
+            }
+            
+            .top-left {
+                position: absolute;
+                top: 60px;
+                left: 160px;
+                transform: translate(-50%, -50%);
+                color: black;
+                font-family: "Times New Roman", Times, serif;
+                font-size: 40px;
+                font-weight: bold;
+            }
+            
+            .centered {
+                  position: absolute;
+                  top: 50%;
+                  left: 50%;
+                  transform: translate(-50%, -50%);
+            }
+            
+            .button  {
+                position: absolute;
+                top: 40px;
+                left: 310px;
+                border: 1px solid black;
+                border-radius: 20px;
+                 background:  transparent;
+                 height:  38px;
+                 line-height:  40px;
+                 display:  inline-block;
+                 float:  none;
+                 text-align:  center;
+                 width:  120px;
+                 padding:  0px!important;
+                 font-size:  14px;
+                 color:  black;
+             }
+
+            .button:hover  {
+                 color:  #fff;
+                 background:  black;
+             }
+            
+            #register{
+                position: relative;
+                text-align: center;
+                color: darkblue;
+                width: 100%;
+                height: 250px;
+                background: white;
+            }
+            #registerLogo{
+                width: 8%;
+                height: 40%;
+                margin-left: 2px;
+                margin-top: -25px;
+                background: white;
+            }
+                       
+            #registerYourStoreButton{
+                position: absolute;
+                top: 150px;
+                left: 670px;
+                border: 1px solid black;
+                border-radius: 20px;
+                 background:  white;
+                 height:  38px;
+                 line-height:  40px;
+                 display:  inline-block;
+                 float:  none;
+                 text-align:  center;
+                 width:  180px;
+                 padding:  0px!important;
+                 font-size:  14px;
+                 color:  black;
+             }
+
+            #registerYourStoreButton:hover  {
+                 color:  #fff;
+                 background:  black;
+             }
+            
+            #bookNow{
+                width: 100%;
+                height: 450px;
+                background: #404040;
+                position: relative;
+            }
+            
+            #bookNowText{
+                width: 50%;
+                height: 400px;
+                float: left;
+                text-align: center;
+                padding:  0px!important;
+                font-size:  40px;
+                color:  white;
+                font-family: "Times New Roman", Times, serif;
+                font-weight: bold;    
+            }
+            
+            #bookNowButton{
+                background: white;
+                color: black;
+                font-family: "Times New Roman", Times, serif;
+                font-weight: bold;  
+                padding:  0px!important;
+                border: 1px solid green;
+                border-radius: 20px;
+                font-size:  30px;
+            }
+            
+            #bookNowButton:hover  {
+                 color:  #fff;
+                 background:  black;
+             }
+            
+            #bookNowImage{
+                width: 50%;
+                height: 100px;
+                float: left;
+            }
+            
+            #threeCards{
+                width: 100%;
+                height: 550px;
+                position: relative;
+            }
+            
+            .threeCardsDiv1{
+                width: 506px;
+                height: 400px;
+                background: white;
+                float: left;
+               
+            }
+            
+            .threeCardsDiv2{
+                width: 506px;
+                height: 400px;
+                background: white;
+                float: left;
+               
+            }
+            
+            .threeCardsDiv3{
+                width: 506px;
+                height: 400px;
+                background: white;
+                float: left;
+               
+            }
+            
+            .cardAlign{
+                top: 90px;
+                left: 102px;
+            }
+            
+            #contactUs{
+                width: 100%;
+                height: 400px;
+                background: seagreen;
+                
+            }
+            
+            #appLink{
+                width: 596px;
+                height: 192px;
+                background: black;
+                position: relative;
+                top: 110px;
+                left: 470px;
+            }
